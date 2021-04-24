@@ -1,11 +1,29 @@
-#Just 4 Fan!
+print("-----------WELCOME-----------")
+print("--Developed By Mortadha Mahdi--")
+print("\n ")
+
 
 def main():
 
-    ilf=input("Type Your Country : ")
-    if ((ilf)== ("iraq") or (ilf)== ("IRAQ") or (ilf)== ("العراق") or (ilf)== ("Iraq")):
-        print("ها هلو شجرة")
+    
+    MyCun=input("Type Your Country : ")
+    if ((MyCun)== ("iraq") or
+        (MyCun)== ("IRAQ") or
+        (MyCun)== ("العراق") or
+        (MyCun)== ("Iraq")):
+        
+        
+        print("You Are Not Just A Tree, You Are Olive Tree")
     else:
-        print("لووووز ورب الرادحات :)")
+        print("You Are Not A Tree")
 
+        
 if __name__ == '__main__':main()
+    
+    
+    
+    
+    
+    
+   
+#!
